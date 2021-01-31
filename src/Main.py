@@ -1,15 +1,7 @@
-from os import system, name
-
-
-# https://www.geeksforgeeks.org/clear-screen-python/
 from src.FocusedWebCrawler import findStocks
 
 
-def clear():
-    if name == 'nt':
-        _ = system('cls')
-    else:
-        _ = system('clear')
+# https://www.geeksforgeeks.org/clear-screen-python/
 
 
 def main():
@@ -32,5 +24,6 @@ def main():
 
         if command[0] == 'exit':
             break;
+
 
 main()

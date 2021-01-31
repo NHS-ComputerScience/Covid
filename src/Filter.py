@@ -4,13 +4,13 @@
 ignore = 'HOLD MOON ONE TWO FOUR FIVE SIX THE NINE TEN ING YOLO CRY BIG ARE FOR EVER STON AWAY SELF LOVE'.split(" ")
 
 def removeDuds(stocks: dict):
-    file = open('C:\\Py\\Programming Projects\DiscordBot\\nasdaqList.txt', 'r')
+    file = open('..\\nasdaqList.txt', 'r')
     AllSecs = list()
     for line in file:
         AllSecs.append(line.split("|")[0])
     file.close()
 
-    file = open('C:\\Py\\Programming Projects\DiscordBot\\otherList.txt', 'r')
+    file = open('..\\otherList.txt', 'r')
     for line in file:
         AllSecs.append(line.split("|")[0])
     file.close()
