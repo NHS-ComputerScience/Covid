@@ -2,7 +2,7 @@
 
 ### Program's Uses and Importance
 
-This is a program that outputs the top most talked about companies on the New York stock (or stonk) exchange using Reddit's [r/wallstreetbets](https://www.reddit.com/r/wallstreetbets/) including information regarding the stock's
+**Stonks++** is a program that outputs the top most talked about companies on the New York stock (or stonk) exchange using Reddit's [r/wallstreetbets](https://www.reddit.com/r/wallstreetbets/) including information regarding the stock's
 <ul>
   <li> name, </li>
   <li> abbreviation, </li>
