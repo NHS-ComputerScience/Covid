@@ -1,4 +1,4 @@
-# Covid
+# Stonks++
 
 ### Program's Uses and Importance
 
