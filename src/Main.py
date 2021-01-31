@@ -25,5 +25,6 @@ def main():
         if command[0] == 'exit':
             break;
 
-
+        else:
+            print("Error, command not found. Consult 'help'.")
 main()
