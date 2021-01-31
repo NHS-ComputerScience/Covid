@@ -14,7 +14,7 @@ This is a program that outputs the top most talked about companies on the New Yo
 
 Not only that, but the program can also take arguemnts regarding how many Reddit posts should be parsed through and how many companies should be shown.
 
-This program can be used for personal gain or just to see what is in the public conscience at the time. The choice is yours. If you need more persuasion, check out our video regarding our commercial: [Stonks Infomercial](https://drive.google.com/file/d/1s7Z4ijnpLWYGGM0_8myDdt-kziFgd31b/view?usp=sharing)
+This program can be used for personal gain or just to see what is in the public conscience at the time. The choice is yours. If you need more persuasion, check out our video regarding our program: [Stonks Infomercial](https://drive.google.com/file/d/1s7Z4ijnpLWYGGM0_8myDdt-kziFgd31b/view?usp=sharing)
 
 ---
 ### Specifications and Installation
