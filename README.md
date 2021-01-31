@@ -19,9 +19,9 @@ This program can be used for personal gain or just to see what is in the public 
 ---
 ### Specifications and Installation
 
-Most operating systems will work. All that is required is to having one of the latest version of Python, i.e., [Python 3.9](https://www.python.org/downloads/release/python-390/), and [PRAW](https://pypi.org/project/praw/) installed. Python can be installed by manually downloading Python 3.9, homebrew, or some other equivalent. PRAW can simply be installed with `pip3 install praw` on cmd or terminal.
+Most operating systems will work. All that is required is to having one of the latest version of Python, i.e., [Python 3.9](https://www.python.org/downloads/release/python-390/), and [PRAW](https://pypi.org/project/praw/) installed. Python can be installed by manually downloading Python 3.9, homebrew, or some other equivalent. PRAW can simply be installed with `pip` or `pip3 install praw` on cmd or terminal.
 
-Installation is fairly easy after that. Simply, download the .py file, change the directory to the src file, and run it in terminal with `python3 Main.py`. Then it will proceed to run it in which you can give it arguments regarding how many posts to parse thorugh and how many stocks to print out.
+Installation is fairly easy after that. Simply, download the .py file, change the directory to the src file, and run it in terminal with `python` or `python3 Main.py`. Then it will proceed to run it in which you can give it arguments regarding how many posts to parse thorugh and how many stocks to print out.
 
 ---
 ### Contributors
