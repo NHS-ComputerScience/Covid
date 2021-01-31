@@ -23,6 +23,8 @@ Most operating systems will work. All that is required is to having one of the l
 
 Installation is fairly easy after that. Simply, download the .py file, change the directory to the src file, and run it in terminal with `python Main.py` or `python3 Main.py` depending on your system. Then it will proceed to run which you can give arguments regarding how many posts to parse thorugh and how many stocks to print out.
 
+There is also a Discord version of this program on the [Stonks Server](https://discord.gg/H34ADsDAcd).
+
 ---
 ### Contributors
 
