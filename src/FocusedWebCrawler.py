@@ -1,8 +1,8 @@
 import praw
 import re
 from praw.models import MoreComments
-from src.Filter import removeDuds
-from src.Stock import Stock
+from Filter import removeDuds
+from Stock import Stock
 
 symbols = '!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~'
 
@@ -10,8 +10,7 @@ symbols = '!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~'
 # for using reddit's api - src=https://towardsdatascience.com/scraping-reddit-data-1c0af3040768
 
 def findStocks(count: int, top: int):
-    reddit = praw.Reddit(client_id='iQUuWuT22lbViA', client_secret='w_lXzZ0KbS9L34z_TsyKFbo5PgrJbA',
-                         user_agent='Web Scraper')
+    reddit = praw.Reddit(client_id='iQUuWuT22lbViA', client_secret='w_lXzZ0KbS9L34z_TsyKFbo5PgrJbA', user_agent='Web Scraper')
 
     hot_posts = reddit.subreddit('wallstreetbets').hot(limit=count)
     possibleStocks = dict()

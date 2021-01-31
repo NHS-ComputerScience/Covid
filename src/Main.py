@@ -1,4 +1,4 @@
-from src.FocusedWebCrawler import findStocks
+from FocusedWebCrawler import findStocks
 
 
 # https://www.geeksforgeeks.org/clear-screen-python/
