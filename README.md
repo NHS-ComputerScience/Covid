@@ -21,7 +21,7 @@ This program can be used for personal gain or just to see what is in the public 
 
 Most operating systems will work. All that is required is to be able to run an executable file (e.g., on Windows) or a runnable jar (e.g., Mac).
 
-Installation is pretty easy. Simply, downlaod either the .exe file for Windows or the .jar for Mac and double click it. Then it will proceed to run in which you can give it arguments regarding how many posts to parse thorugh and how many stocks to print out. This also requires the user to download praw, i.e.,  pip install praw .
+Installation is fairly easy. Simply, downlaod either the .exe file for Windows or the .jar for Mac and double click it. Then it will proceed to run in which you can give it arguments regarding how many posts to parse thorugh and how many stocks to print out. Note that this requires the user to download [PRAW](https://pypi.org/project/praw/), i.e., `pip install praw`.
 
 ---
 ### Contributors
